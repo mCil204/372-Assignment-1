@@ -1,0 +1,57 @@
+/*
+Name: Millard Cil
+Date: 1.30.2026
+CSC 372-01
+
+This is the destination.html page for my to Phuket Thailand.
+It includes spots/places to go to and descriptions
+Extra features: Background image and favicon
+*/
+
+
+body{
+    background-color: white;
+    color: #404040;
+    font-family: Georgia;
+    font-size: 11pt;
+    background-image: url('images/background1.jpg');
+   
+    background-repeat: repeat;
+    background-attachment: fixed;
+}
+
+h1{
+    text-align: center;
+    font-size: 22pt;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+h2{
+    text-align: left;
+    font-size: 18pt;
+    font-weight: normal;
+    text-decoration: underline;
+}
+
+a{
+    color: #a4a400;
+}
+
+blockquote{
+    font-style: italic;
+    background-color:  #FFFFA8;
+    padding: 15px;
+    margin: 20px;
+
+}
+
+img{
+    max-width: 100%;
+    height: auto;
+}
+
+#smiley{
+    width: 200px;
+    height: auto;
+}
